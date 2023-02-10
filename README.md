@@ -1,4 +1,4 @@
-# Irisdata_UnsupervisedData
+# Irisdata UnsupervisedData, Agglomerative Clustering
 ML - Iris Flower Classifier
 A lightweight introduction to machine learning in Rubix ML using the famous Iris dataset and the K Nearest Neighbors algorithm. By the end of this tutorial, you'll know how to structure a project, instantiate a learner, and train it to make predictions on some test data.
 
@@ -20,3 +20,5 @@ Now we are dividing the data into 4 clusters. Dividing the clusters into 4 is ou
 
 Finally we are showing the data using plt.show()
 
+
+In the similar way i also worked in Agglomerative clustering as well.
